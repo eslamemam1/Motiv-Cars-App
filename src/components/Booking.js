@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Dashboard() {
+function Booking() {
   return (
       <div className=' bg-[#F5F5F5] w-full h-[100%]'>
-        Dashboard
+        Booking
       </div>
   )
 }
 
-export default Dashboard
+export default Booking
