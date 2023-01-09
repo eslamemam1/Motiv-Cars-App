@@ -13,3 +13,7 @@
     left: 50%;
     transform: translate(-50%,-50%);
 }
+.listHover:hover{
+    background-color: #F3F5F8;
+    border-radius: 6px;
+}
