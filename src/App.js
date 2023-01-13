@@ -6,7 +6,7 @@ import Booking from "./components/Booking";
 import {Route, Routes} from "react-router-dom"
 function App() {
   return (
-    <div className="App flex">
+    <div className="App flex overflow-hidden">
       <SideBar />
       <div className=" flex flex-col w-full">
         <TopBar />
